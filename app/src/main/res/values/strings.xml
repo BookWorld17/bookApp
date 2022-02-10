@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Book World</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Explorer Riyadh</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="home">Home</string>
+    <string name="add_item">Add a Book</string>
+    <string name="list_items">Books</string>
+    <string name="my_orders">Orders</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Sign Out</string>
+    <string name="waiting">waiting</string>
+    <string name="delete_success">Book deleted successfully</string>
+    <string name="couldnt_delete">Couldn\'t delete the book</string>
+
+
+    <string name="seller_name">Seller Name:</string>
+    <string name="seller_phone">Seller Phone:</string>
+    <string name="seller_email">Seller Email:</string>
+    <string name="seller_address">Seller Address:</string>
+
+    <string name="buyer_address">Customer Address:</string>
+    <string name="buyer_name">Customer Name:</string>
+    <string name="buyer_phone">Customer Phone:</string>
+    <string name="buyer_email">Customer Email:</string>
+
+    <string name="order_date">Order Date:</string>
+    <string name="order_status">Order Status:</string>
+    <string name="dispute_date">Dispute Date:</string>
+    <string name="dispute_status">Dispute Status:</string>
+    <string name="my_disputes">Disputes</string>
+    <string name="my_cart">My Cart</string>
+    <string name="item_removed_success">Item removed successfully from cart</string>
+    <string name="couldnt_remove_item">Couldn\'t remove item from cart</string>
+    <string name="error">Error</string>
+    <string name="cart_is_empty">Cart is empty</string>
+    <string name="order_submitted_success">Order Submitted Successfully</string>
+    <string name="success">Success</string>
+    <string name="couldnt_submit_order">Couldn\'t submit order</string>
+    <string name="confirm_your_order">Please confirm your order</string>
+    <string name="book_added_to_cart_success">Book added to cart successfully</string>
+    <string name="book_not_to_cart_success">Couldn\'t add this book to the cart</string>
+    <string name="not_solved_yet">Not solved yet</string>
+    <string name="opened">opened</string>
+    <string name="pass_instructions">Password must be at least 1 special character, no white spaces and at least 6 characters</string>
+    <string name="email_instructions">example: email@company.com</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="email">Email</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="address">Address</string>
+    <string name="closed">closed</string>
+    <string name="chat_with">Chat with</string>
+    <string name="chat_with_seller">Chat with the seller</string>
+    <string name="chat_with_buyer">Chat with buyer</string>
+    <string name="chat_with_admin">Chat with Admin</string>
+    <string name="city">City:</string>
+    <string name="zone">Zone</string>
+    <string name="currency">&#160;&#160;S.R </string>
+    <string name="send">Send</string>
+    <string name="rating">Rating</string>
+    <string name="your_comment">Your Comment</string>
+    <string name="add_comment">Rate This Book!</string>
+    <string name="order_now">Order Now</string>
+    <string name="account_disabled">Your account is Suspended</string>
+</resources>

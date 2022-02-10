@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="users">
+        <item>Buyer</item>
+        <item>Seller</item>
+    </string-array>
+
+    <string-array name="bookType">
+        <item>New</item>,
+        <item>Used</item>
+    </string-array>
+
+    <string-array name="deliveryOptions">
+        <item>Delivery</item>
+        <item>Pick up</item>
+    </string-array>
+
+    <array name="sellerType">
+        <item>Individual</item>
+        <item>Book Store</item>
+        <item>Publisher</item>
+    </array>
+</resources>
